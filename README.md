@@ -18,7 +18,7 @@
 ## 🛠️ Tech Universe
 
 
-## 🤖 AI / GenAI
+### 🤖 AI / GenAI
 
 ![Machine Learning](https://img.shields.io/badge/ML-black?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-black?style=for-the-badge)
