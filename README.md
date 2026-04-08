@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Dev+Malik+%7C+AI+Engineer;MERN+Stack+Developer;GenAI+(RAG)+Builder;Building+Real+World+Projects&center=true&width=700&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Dev+Malik+%7C+AI+Engineer;MERN+Stack+Developer;GenAI+(RAG)+Builder;Building+Real+World+Projects&center=true&width=700&height=50&color=00FFAA">
 </p>
 
 <div align="center">
