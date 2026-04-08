@@ -35,8 +35,7 @@
 ### 👨‍💻 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://docs.python.org/3/)
-[![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)](https://en.cppreference.com/w/)
-
+[![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)](https://www.java.com/)
 ---
 
 ### 🌐 MERN Stack
