@@ -26,6 +26,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=huggingface)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
 
+---
 
 ### 👨‍💻 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
