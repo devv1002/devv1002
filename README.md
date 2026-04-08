@@ -15,6 +15,14 @@
 - 📫 Reach me at: **devmalik1002@gmail.com**
 
 
+## 🤖 AI / GenAI
+
+![Machine Learning](https://img.shields.io/badge/ML-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-black?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=huggingface)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+
 
 ## 🛠️ Tech Universe
 
