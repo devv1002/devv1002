@@ -18,6 +18,7 @@
 - 🚀 Building real-world impactful projects  
 - 📫 Reach me at: **devmalik1002@gmail.com**
 
+---
 
 ## 🛠️ Tech Universe
 
@@ -29,7 +30,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=huggingface)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-
 ---
 
 ### 👨‍💻 Languages
