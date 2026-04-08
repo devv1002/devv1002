@@ -58,3 +58,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=devv1002&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devv1002&theme=tokyonight">
 </p>
+
+
+![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
