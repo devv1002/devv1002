@@ -43,7 +43,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-
 ---
 
 ### 🎨 Frontend & UI
