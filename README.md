@@ -1,3 +1,21 @@
+<div align="center">
+
+<h1>Hi 👋, I'm Dev Malik</h1>
+
+<h3>🎓 B.Tech CSE (AI) Student | 💻 MERN Developer | 🤖 GenAI Engineer</h3>
+
+</div>
+
+---
+
+- 🎓 Pursuing B.Tech in CSE (AI Specialization)  
+- 🤖 Working on ML, RAG & AI-based systems  
+- 🌐 Full Stack Developer (MERN Stack)  
+- 🚀 Building real-world impactful projects  
+- 📫 Reach me at: **devmalik1002@gmail.com**
+
+
+
 ## 🛠️ Tech Universe
 
 ### 👨‍💻 Languages
