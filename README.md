@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Dev+Malik+%7C+AI+Engineer;MERN+Stack+Developer;GenAI+(RAG)+Builder;Building+Real+World+Projects&center=true&width=700&height=50">
+</p>
+
 <div align="center">
 
 <h1>Hi 👋, I'm Dev Malik</h1>
