@@ -15,6 +15,9 @@
 - 📫 Reach me at: **devmalik1002@gmail.com**
 
 
+## 🛠️ Tech Universe
+
+
 ## 🤖 AI / GenAI
 
 ![Machine Learning](https://img.shields.io/badge/ML-black?style=for-the-badge)
@@ -23,8 +26,6 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=huggingface)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
 
-
-## 🛠️ Tech Universe
 
 ### 👨‍💻 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -46,15 +47,3 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 
 ---
-
-### 🤖 AI / GenAI
-[![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)](https://www.langchain.com/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-000?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
-[![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge)](https://ollama.ai/)
-
----
-
-### ⚙️ Tools
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)](https://www.kernel.org/)
-[![VS Code](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
