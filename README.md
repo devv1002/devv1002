@@ -54,16 +54,7 @@
 ---
 
 
-## 🤖 AI STACK ⚡
-
 <p align="center">
-<img src="https://img.shields.io/badge/ML-%23121011.svg?style=for-the-badge&logo=tensorflow&logoColor=orange">
-<img src="https://img.shields.io/badge/RAG-%23121011.svg?style=for-the-badge">
-<img src="https://img.shields.io/badge/NLP-%23121011.svg?style=for-the-badge">
-<img src="https://img.shields.io/badge/LangChain-%23121011.svg?style=for-the-badge">
-<img src="https://img.shields.io/badge/HuggingFace-%23121011.svg?style=for-the-badge&logo=huggingface">
+<img src="https://github-readme-stats.vercel.app/api?username=devv1002&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devv1002&theme=tokyonight">
 </p>
-
-##wave animation
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
